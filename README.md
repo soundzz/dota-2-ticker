@@ -13,3 +13,4 @@ If you want the script to automatically run on startup, create a .bat in your au
 
 start pythonw C:\{whatever path you saved the files in}\ticker.pyw
 
+before running the script for the first time you will need to install the dota2api package ($pip install dota2api) and maybe the pypiwin32 package.
