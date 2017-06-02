@@ -11,5 +11,5 @@ the script refreshes the data every 60 seconds
 
 If you want the script to automatically run on startup, create a .bat in your autostart folder with the line:
 
-start pythonw C:\{whatever path you saved the folder in}\ticker.pyw
+start pythonw C:\{whatever path you saved the files in}\ticker.pyw
 
