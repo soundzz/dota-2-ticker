@@ -19,4 +19,4 @@ OPTIONAL:
 -a whole lot of error handling to avoid the script crashing on you with incomprehensible error messages when entering invalid keys/player IDs  or IDs of players with a private profile 
 
 # Bugs?
-With this version there are probably bugs that i haven't thought of when testing my application, so please let me know by either opening an issue here or messaging me on reddit at /u/FeIiix
+With this version there are probably bugs that i haven't thought of when testing my application, so please let me know by either opening an issue here or messaging me on reddit at /u/FeIiix (If possible, include the contents of the log file after the bug occured)
