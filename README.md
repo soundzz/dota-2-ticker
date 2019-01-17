@@ -2,7 +2,7 @@
 Dota 2 Ticker
 
 Well here i am, reworking this script almost 2 years later!
-The core funcionality is still the same: You enter player Nicknames and (dotabuff) IDs, run the script in the background and will get a Notification every time one of those friends finish a match (including some detailed info about the match). This only works if that player has enabled public match history of course.
+The core funcionality is still the same: You enter player Nicknames and (dotabuff) IDs, run the script in the background and will get a Notification every time one of those friends finish a match (including some detailed info about the match). This only works if that player has enabled public match history of course. The ticker script is ticker.py, the script used to set up API Key and player IDs is config.py
 
 # How to set it up
 1) Python 3 is required, so make sure you have it installed and linked the interpreter in your PATH Variable
@@ -14,7 +14,7 @@ OPTIONAL:
 6) creating a .bat file in the directory containing the line "start pyw {directory path}\ticker.py" will give you a simple way to start the script by double clicking it (same way for config.py)
 
 # Whats new?
--GUI for entering API Key and Player IDs
+-GUI for entering API Key and Player IDs (in config.py)
 -log file keeping track of the finished matches in the current session including dotabuff links (and more info about program execution)
 -a whole lot of error handling to avoid the script crashing on you with incomprehensible error messages when entering invalid keys/player IDs  or IDs of players with a private profile 
 
