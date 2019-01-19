@@ -15,7 +15,9 @@ OPTIONAL:
 
 # Whats new?
 -GUI for entering API Key and Player IDs (in config.py)
+
 -log file keeping track of the finished matches in the current session including dotabuff links (and more info about program execution)
+
 -a whole lot of error handling to avoid the script crashing on you with incomprehensible error messages when entering invalid keys/player IDs  or IDs of players with a private profile 
 
 # Bugs?
